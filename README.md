@@ -6,4 +6,8 @@
 * Created a k-means clustering model that categorized products as trending or non-trending using ratings-based features. Finally, we wrapped the model in a Flask API.
 
 ## These slides will help you understand the details!
+<img width="1036" alt="grid_1" src="https://github.com/chinmaysharmacs10/The_Fashion_Capital/assets/35448762/c85d47c3-6b16-4459-a576-385174a11b49">
+<img width="1034" alt="grid_2" src="https://github.com/chinmaysharmacs10/The_Fashion_Capital/assets/35448762/73b8da6e-df49-429e-86e8-0dde684c5ac8">
+<img width="1036" alt="grid_3" src="https://github.com/chinmaysharmacs10/The_Fashion_Capital/assets/35448762/5c004e31-d48d-410e-a54f-b5d950193254">
+<img width="1035" alt="grid_4" src="https://github.com/chinmaysharmacs10/The_Fashion_Capital/assets/35448762/519c0c4b-da65-480b-926f-93ec790f7c33">
 
