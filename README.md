@@ -4,6 +4,7 @@
 * The Fashion Capital is a website that displays ongoing and upcoming T-shirt fashion trends to retailers so that they could efficiently build their stock for the coming weeks.
 * We sourced data by scraping product information (title, image, rating values and the date of ratings) from e-commerce platforms using Scrapy.
 * Created a k-means clustering model that categorized products as trending or non-trending using ratings-based features. Finally, we wrapped the model in a Flask API.
+* This repository holds the model and flask API code developed by me.
 
 ## [These slides will help you understand the details](https://docs.google.com/presentation/d/1hhmFSRRHHojcss9Yq4NiVC64tAdEoUXS0GQU7XwmkJQ/edit?usp=sharing)!
 <img width="1036" alt="grid_1" src="https://github.com/chinmaysharmacs10/The_Fashion_Capital/assets/35448762/c85d47c3-6b16-4459-a576-385174a11b49">
